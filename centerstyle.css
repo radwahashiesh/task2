@@ -1,0 +1,30 @@
+body{
+	background-color: white;
+}
+h1{
+	color: blue;
+}
+h3{
+	color: black
+}
+div{
+	 border-radius: 30px;
+	  border: 2px solid #dfe6e9;
+  padding: 8px;
+  color: #636e72;
+}
+input{
+  width: 150px;
+  height: 15px;
+  border-color: white
+  text-align: center;
+  border: none
+
+}
+a{
+	text-decoration-line: none
+}
+iframe{
+	border-color: #636e72;
+	 border-radius: 30px;
+}
